@@ -1,0 +1,45 @@
+
+.container
+{
+	width:870px;
+	background:#ffffff;
+	margin:0 auto;
+	text-align:justify;
+}
+.top-menu
+{
+	background-color:c3a67e;
+	overflow:hidden;
+}
+
+.top-menu li
+{
+	list-style-type:none;
+	float:left;
+}
+.footer
+{
+	color:white;
+	background:blue;
+}
+.top-menu li
+{
+	list-style-type:none;
+	float:left;
+	border-right:solid 1px #FFF;
+	padding:6px 10pz;
+
+}
+.top-menu li a
+{
+	text-decoration:none;
+	text-transform:uppercase;
+	color:#FFF;
+	font-weight:bold;
+	padding:6px 10px;
+}
+.top-menu li a:hover
+{
+	background:#ac4f2e;
+
+}
